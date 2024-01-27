@@ -1,0 +1,27 @@
+.major-heading, 
+.sub-heading,
+.list,
+.para {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.major-heading {
+    font-size: 24px;
+}
+
+.list {
+    font-size: 16px;
+}
+
+.food {
+    width: auto;
+    height: 500px;
+}
+
+.sub-heading {
+    font-size: 20px;
+}
+
+.para{
+    font-size: 18px;
+}
