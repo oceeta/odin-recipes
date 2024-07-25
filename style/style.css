@@ -2,7 +2,12 @@
 .sub-heading,
 .list,
 .para {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, "sans-serif";
+}
+
+.major-heading,
+.sub-heading {
+    font-weight: 800;
 }
 
 .major-heading {
