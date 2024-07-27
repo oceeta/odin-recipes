@@ -1,3 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.recipe-links {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    font-size: 16px;
+    margin: 0 24px;
+}
+
 .major-heading, 
 .sub-heading,
 .list,
@@ -12,10 +30,8 @@
 
 .major-heading {
     font-size: 24px;
-}
-
-.list {
-    font-size: 16px;
+    text-align: center;
+    margin: 20px 0;
 }
 
 .food {
