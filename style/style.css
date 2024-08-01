@@ -46,3 +46,24 @@
 .para{
     font-size: 18px;
 }
+
+.food-card {
+    display: inline-block;
+    width: 200px;
+    background-color: rgb(204 208 231);
+    /* border-radius: 12px; */
+}
+
+.food-card-image {
+    width: 200px;
+    height: auto;
+}
+
+.food-card, .food-card-image {
+    border-radius: 12px;
+}
+
+.food-card-image img {
+    border-radius: 12px 12px 0 0;
+    width: 200px;
+}
